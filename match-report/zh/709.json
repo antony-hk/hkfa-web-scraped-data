@@ -1,0 +1,109 @@
+{
+  "MatchData": {
+    "match_description": "",
+    "match_time": "19:30",
+    "home_score": 2,
+    "guest_score": 3,
+    "match_id": 709,
+    "match_date": "2006-01-11",
+    "matchStatus": "完場",
+    "match_attendance": null,
+    "match_status": 1,
+    "venue_id": 9,
+    "live_icon": [],
+    "home_shoot": null,
+    "guest_shoot": null,
+    "home_shoot_on_target": null,
+    "guest_shoot_on_target": null,
+    "home_corner": null,
+    "guest_corner": null,
+    "home_offside": null,
+    "guest_offside": null,
+    "home_fouls": null,
+    "guest_fouls": null,
+    "home_saves": null,
+    "guest_saves": null,
+    "home_12y_point": 0,
+    "guest_12y_point": 0,
+    "referee1": "",
+    "referee2": "",
+    "referee3": "",
+    "referee4": "",
+    "Venue": {
+      "venue_id": 9,
+      "VenueName": "斧山道運動場"
+    },
+    "LeagueYear": {
+      "league_id": 15,
+      "LeagueYearName": "精英青年聯賽"
+    },
+    "team_home": {
+      "Club": {
+        "club_id": 15
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team_logo/HKFC_Logo.png",
+      "TeamName": "港會精英隊"
+    },
+    "team_guest": {
+      "Club": {
+        "club_id": 45
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team/logo/九龍城.png",
+      "TeamName": "九龍城精英隊"
+    },
+    "HomePlayers": [],
+    "HomeSubPlayers": [],
+    "GuestPlayers": [],
+    "GuestSubPlayers": [],
+    "MatchEvents": [],
+    "report": {
+      "news_id": null,
+      "news_date": null,
+      "news_title": null,
+      "news_abstract": null,
+      "news_content": null,
+      "news_image_1": null,
+      "news_image_2": null,
+      "news_image_3": null,
+      "news_image_4": null,
+      "news_image_5": null,
+      "news_image_6": null,
+      "news_league": null,
+      "news_hkteam_type": null
+    }
+  },
+  "HomePlayersTable": [],
+  "GuestPlayersTable": [],
+  "HomeSubPlayersTable": [],
+  "GuestSubPlayersTable": [],
+  "HomeStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 0,
+    "rc": 0
+  },
+  "GuestStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 0,
+    "rc": 0
+  },
+  "HomeGoalPlayerTable": [],
+  "GuestGoalPlayerTable": [],
+  "Home12YPlayerTable": [],
+  "Guest12YPlayerTable": [],
+  "HomeYCTable": [],
+  "GuestYCTable": [],
+  "HomeRCTable": [],
+  "GuestRCTable": [],
+  "HomeEXCTable": [],
+  "GuestEXCTable": []
+}

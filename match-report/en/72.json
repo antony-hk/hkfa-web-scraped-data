@@ -1,0 +1,2075 @@
+{
+  "MatchData": {
+    "match_description": "",
+    "match_time": "16:00",
+    "home_score": 1,
+    "guest_score": 2,
+    "match_id": 72,
+    "match_date": "2005-11-19",
+    "matchStatus": "Finished",
+    "match_attendance": null,
+    "match_status": 1,
+    "venue_id": 2,
+    "live_icon": [],
+    "home_shoot": null,
+    "guest_shoot": null,
+    "home_shoot_on_target": null,
+    "guest_shoot_on_target": null,
+    "home_corner": null,
+    "guest_corner": null,
+    "home_offside": null,
+    "guest_offside": null,
+    "home_fouls": null,
+    "guest_fouls": null,
+    "home_saves": null,
+    "guest_saves": null,
+    "home_12y_point": 0,
+    "guest_12y_point": 0,
+    "referee1": "",
+    "referee2": "",
+    "referee3": "",
+    "referee4": "",
+    "Venue": {
+      "venue_id": 2,
+      "VenueName": "Mongkok Stadium"
+    },
+    "LeagueYear": {
+      "league_id": 10,
+      "LeagueYearName": "League Cup"
+    },
+    "team_home": {
+      "Club": {
+        "club_id": 9
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team/logo/20130913/citizen.png",
+      "TeamName": "Citizen"
+    },
+    "team_guest": {
+      "Club": {
+        "club_id": 6
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team/logo/20130913/sunhei.png",
+      "TeamName": "Xiangxue Sun Hei"
+    },
+    "HomePlayers": [
+      {
+        "Player": {
+          "player_id": 21,
+          "PlayerName": "Tse, Tak Him",
+          "player_position": "GK"
+        },
+        "player_id": 21,
+        "captain": false,
+        "leagueyearteamplayer_id": 1664,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "26"
+      },
+      {
+        "Player": {
+          "player_id": 22,
+          "PlayerName": "Lai, Ka Fai",
+          "player_position": "DF"
+        },
+        "player_id": 22,
+        "captain": true,
+        "leagueyearteamplayer_id": 1665,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "2"
+      },
+      {
+        "Player": {
+          "player_id": 154,
+          "PlayerName": "Wang, Zhengchuang",
+          "player_position": "Defender"
+        },
+        "player_id": 154,
+        "captain": false,
+        "leagueyearteamplayer_id": 1666,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "3"
+      },
+      {
+        "Player": {
+          "player_id": 156,
+          "PlayerName": "Baise, Festus",
+          "player_position": "MF"
+        },
+        "player_id": 156,
+        "captain": false,
+        "leagueyearteamplayer_id": 1667,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "7"
+      },
+      {
+        "Player": {
+          "player_id": 157,
+          "PlayerName": "So, Yiu Man",
+          "player_position": ""
+        },
+        "player_id": 157,
+        "captain": false,
+        "leagueyearteamplayer_id": 1668,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 158,
+          "PlayerName": "Lo, Chun Kit Toby",
+          "player_position": ""
+        },
+        "player_id": 158,
+        "captain": false,
+        "leagueyearteamplayer_id": 1669,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "13"
+      },
+      {
+        "Player": {
+          "player_id": 159,
+          "PlayerName": "Leung, Chun Pong",
+          "player_position": "CM"
+        },
+        "player_id": 159,
+        "captain": false,
+        "leagueyearteamplayer_id": 1670,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "16"
+      },
+      {
+        "Player": {
+          "player_id": 161,
+          "PlayerName": "Yuan, Yang",
+          "player_position": "MF"
+        },
+        "player_id": 161,
+        "captain": false,
+        "leagueyearteamplayer_id": 1671,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "19"
+      },
+      {
+        "Player": {
+          "player_id": 160,
+          "PlayerName": "Nyatepe, Anthony Dela",
+          "player_position": "MF"
+        },
+        "player_id": 160,
+        "captain": false,
+        "leagueyearteamplayer_id": 1672,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "18"
+      },
+      {
+        "Player": {
+          "player_id": 162,
+          "PlayerName": "Chao, Peng Fei",
+          "player_position": "MF"
+        },
+        "player_id": 162,
+        "captain": false,
+        "leagueyearteamplayer_id": 1673,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "30"
+      },
+      {
+        "Player": {
+          "player_id": 155,
+          "PlayerName": "Anane, Yaw",
+          "player_position": "Midfielder"
+        },
+        "player_id": 155,
+        "captain": false,
+        "leagueyearteamplayer_id": 1684,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "4"
+      }
+    ],
+    "HomeSubPlayers": [
+      {
+        "Player": {
+          "player_id": 163,
+          "PlayerName": "Cheung, King Wah",
+          "player_position": ""
+        },
+        "player_id": 163,
+        "captain": false,
+        "leagueyearteamplayer_id": 1674,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 164,
+          "PlayerName": "Li, Hang Wui",
+          "player_position": ""
+        },
+        "player_id": 164,
+        "captain": false,
+        "leagueyearteamplayer_id": 1675,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      },
+      {
+        "Player": {
+          "player_id": 165,
+          "PlayerName": "Xu, Deshuai",
+          "player_position": "MF"
+        },
+        "player_id": 165,
+        "captain": false,
+        "leagueyearteamplayer_id": 1676,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      },
+      {
+        "Player": {
+          "player_id": 166,
+          "PlayerName": "Yau, Kam Leung",
+          "player_position": ""
+        },
+        "player_id": 166,
+        "captain": false,
+        "leagueyearteamplayer_id": 1677,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "12"
+      },
+      {
+        "Player": {
+          "player_id": 167,
+          "PlayerName": "Mensah, Moses",
+          "player_position": "DF"
+        },
+        "player_id": 167,
+        "captain": false,
+        "leagueyearteamplayer_id": 1678,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "15"
+      },
+      {
+        "Player": {
+          "player_id": 168,
+          "PlayerName": "Chui, Yiu Chung",
+          "player_position": ""
+        },
+        "player_id": 168,
+        "captain": false,
+        "leagueyearteamplayer_id": 1679,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 169,
+          "PlayerName": "Wu, Haopeng",
+          "player_position": ""
+        },
+        "player_id": 169,
+        "captain": false,
+        "leagueyearteamplayer_id": 1680,
+        "leagueyearteam_id": 70,
+        "clubplayer_id": null,
+        "player_jersey": "28"
+      }
+    ],
+    "GuestPlayers": [
+      {
+        "Player": {
+          "player_id": 115,
+          "PlayerName": "Chan, Ka Ki",
+          "player_position": ""
+        },
+        "player_id": 115,
+        "captain": false,
+        "leagueyearteamplayer_id": 1538,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "21"
+      },
+      {
+        "Player": {
+          "player_id": 125,
+          "PlayerName": "Cordiero, Cristiano Preigchadt",
+          "player_position": ""
+        },
+        "player_id": 125,
+        "captain": false,
+        "leagueyearteamplayer_id": 1548,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "33"
+      },
+      {
+        "Player": {
+          "player_id": 124,
+          "PlayerName": "Leung, Chi Wing",
+          "player_position": ""
+        },
+        "player_id": 124,
+        "captain": false,
+        "leagueyearteamplayer_id": 1547,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "23"
+      },
+      {
+        "Player": {
+          "player_id": 123,
+          "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+          "player_position": ""
+        },
+        "player_id": 123,
+        "captain": false,
+        "leagueyearteamplayer_id": 1546,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "22"
+      },
+      {
+        "Player": {
+          "player_id": 122,
+          "PlayerName": "Freitas, Fladimir Da Cruz",
+          "player_position": "Midfielder"
+        },
+        "player_id": 122,
+        "captain": false,
+        "leagueyearteamplayer_id": 1545,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "19"
+      },
+      {
+        "Player": {
+          "player_id": 121,
+          "PlayerName": "Lai, Kai Cheuk",
+          "player_position": ""
+        },
+        "player_id": 121,
+        "captain": false,
+        "leagueyearteamplayer_id": 1544,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "16"
+      },
+      {
+        "Player": {
+          "player_id": 120,
+          "PlayerName": "Lee, Wai Lun",
+          "player_position": ""
+        },
+        "player_id": 120,
+        "captain": false,
+        "leagueyearteamplayer_id": 1543,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "15"
+      },
+      {
+        "Player": {
+          "player_id": 119,
+          "PlayerName": "Lee, Kin Wo",
+          "player_position": ""
+        },
+        "player_id": 119,
+        "captain": true,
+        "leagueyearteamplayer_id": 1542,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 118,
+          "PlayerName": "Chan, Yiu Lun",
+          "player_position": ""
+        },
+        "player_id": 118,
+        "captain": false,
+        "leagueyearteamplayer_id": 1541,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "10"
+      },
+      {
+        "Player": {
+          "player_id": 117,
+          "PlayerName": "Akosah, Julius Pongla",
+          "player_position": "FW"
+        },
+        "player_id": 117,
+        "captain": false,
+        "leagueyearteamplayer_id": 1540,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 116,
+          "PlayerName": "Hartwig, Carlo Andre Bielemann",
+          "player_position": "Defender"
+        },
+        "player_id": 116,
+        "captain": false,
+        "leagueyearteamplayer_id": 1539,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      }
+    ],
+    "GuestSubPlayers": [
+      {
+        "Player": {
+          "player_id": 15,
+          "PlayerName": "Chan, Domingos",
+          "player_position": ""
+        },
+        "player_id": 15,
+        "captain": false,
+        "leagueyearteamplayer_id": 1536,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 130,
+          "PlayerName": "Poon, Man Tik",
+          "player_position": ""
+        },
+        "player_id": 130,
+        "captain": false,
+        "leagueyearteamplayer_id": 1553,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "24"
+      },
+      {
+        "Player": {
+          "player_id": 129,
+          "PlayerName": "Chan, Ho Man",
+          "player_position": ""
+        },
+        "player_id": 129,
+        "captain": false,
+        "leagueyearteamplayer_id": 1552,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "18"
+      },
+      {
+        "Player": {
+          "player_id": 128,
+          "PlayerName": "Lo, Chi Kwan",
+          "player_position": ""
+        },
+        "player_id": 128,
+        "captain": false,
+        "leagueyearteamplayer_id": 1551,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "14"
+      },
+      {
+        "Player": {
+          "player_id": 127,
+          "PlayerName": "Pau, Ka Yiu",
+          "player_position": "Midfielder"
+        },
+        "player_id": 127,
+        "captain": false,
+        "leagueyearteamplayer_id": 1550,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      },
+      {
+        "Player": {
+          "player_id": 126,
+          "PlayerName": "Chung, Kin Hei",
+          "player_position": ""
+        },
+        "player_id": 126,
+        "captain": false,
+        "leagueyearteamplayer_id": 1549,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "3"
+      },
+      {
+        "Player": {
+          "player_id": 16,
+          "PlayerName": "Tseng, Siu Wing",
+          "player_position": ""
+        },
+        "player_id": 16,
+        "captain": false,
+        "leagueyearteamplayer_id": 1537,
+        "leagueyearteam_id": 64,
+        "clubplayer_id": null,
+        "player_jersey": "2"
+      }
+    ],
+    "MatchEvents": [
+      {
+        "teamplayer_home_id": 1673,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 162,
+          "club_id": 0,
+          "PlayerName": "Chao, Peng Fei",
+          "player_position": "MF"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Home",
+        "min": 21,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1542,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 119,
+          "club_id": 0,
+          "PlayerName": "Lee, Kin Wo",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Guest",
+        "min": 50,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1542,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 119,
+          "club_id": 0,
+          "PlayerName": "Lee, Kin Wo",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Guest",
+        "min": 57,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1539,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 116,
+          "club_id": 0,
+          "PlayerName": "Hartwig, Carlo Andre Bielemann",
+          "player_position": "Defender"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 18,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 1667,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 156,
+          "club_id": 9,
+          "PlayerName": "Baise, Festus",
+          "player_position": "MF"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Home",
+        "min": 23,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 1672,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 160,
+          "club_id": 9,
+          "PlayerName": "Nyatepe, Anthony Dela",
+          "player_position": "MF"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Home",
+        "min": 31,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1547,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 124,
+          "club_id": 115,
+          "PlayerName": "Leung, Chi Wing",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 36,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1542,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 119,
+          "club_id": 0,
+          "PlayerName": "Lee, Kin Wo",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 42,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1541,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 118,
+          "club_id": 0,
+          "PlayerName": "Chan, Yiu Lun",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 55,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 1666,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 154,
+          "club_id": 0,
+          "PlayerName": "Wang, Zhengchuang",
+          "player_position": "Defender"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Home",
+        "min": 90,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1539,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 116,
+          "club_id": 0,
+          "PlayerName": "Hartwig, Carlo Andre Bielemann",
+          "player_position": "Defender"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "RC",
+        "side": "Guest",
+        "min": 90,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1552,
+        "teamplayer_guest_sub_id": 1540,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 129,
+          "club_id": 0,
+          "PlayerName": "Chan, Ho Man",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 117,
+          "club_id": 115,
+          "PlayerName": "Akosah, Julius Pongla",
+          "player_position": "FW"
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 40,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "Chan, Ho Man",
+              "player_position": ""
+            },
+            "player_id": 129,
+            "leagueyearteamplayer_id": 1552,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "18"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Akosah, Julius Pongla",
+              "player_position": "FW"
+            },
+            "player_id": 117,
+            "leagueyearteamplayer_id": 1540,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "9"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1551,
+        "teamplayer_guest_sub_id": 1541,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 128,
+          "club_id": 0,
+          "PlayerName": "Lo, Chi Kwan",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 118,
+          "club_id": 0,
+          "PlayerName": "Chan, Yiu Lun",
+          "player_position": ""
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 73,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "Lo, Chi Kwan",
+              "player_position": ""
+            },
+            "player_id": 128,
+            "leagueyearteamplayer_id": 1551,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "14"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Chan, Yiu Lun",
+              "player_position": ""
+            },
+            "player_id": 118,
+            "leagueyearteamplayer_id": 1541,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "10"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 1676,
+        "teamplayer_home_sub_id": 1670,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 165,
+          "club_id": 9,
+          "PlayerName": "Xu, Deshuai",
+          "player_position": "MF"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 159,
+          "club_id": 115,
+          "PlayerName": "Leung, Chun Pong",
+          "player_position": "CM"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 75,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "Xu, Deshuai",
+              "player_position": "MF"
+            },
+            "player_id": 165,
+            "leagueyearteamplayer_id": 1676,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "8"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Leung, Chun Pong",
+              "player_position": "CM"
+            },
+            "player_id": 159,
+            "leagueyearteamplayer_id": 1670,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "16"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 1553,
+        "teamplayer_guest_sub_id": 1546,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 130,
+          "club_id": 115,
+          "PlayerName": "Poon, Man Tik",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 123,
+          "club_id": 0,
+          "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+          "player_position": ""
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 85,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "Poon, Man Tik",
+              "player_position": ""
+            },
+            "player_id": 130,
+            "leagueyearteamplayer_id": 1553,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "24"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+              "player_position": ""
+            },
+            "player_id": 123,
+            "leagueyearteamplayer_id": 1546,
+            "leagueyearteam_id": 64,
+            "clubplayer_id": null,
+            "player_jersey": "22"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 1678,
+        "teamplayer_home_sub_id": 1673,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 167,
+          "club_id": 9,
+          "PlayerName": "Mensah, Moses",
+          "player_position": "DF"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 162,
+          "club_id": 0,
+          "PlayerName": "Chao, Peng Fei",
+          "player_position": "MF"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 88,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "Mensah, Moses",
+              "player_position": "DF"
+            },
+            "player_id": 167,
+            "leagueyearteamplayer_id": 1678,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "15"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Chao, Peng Fei",
+              "player_position": "MF"
+            },
+            "player_id": 162,
+            "leagueyearteamplayer_id": 1673,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "30"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 1679,
+        "teamplayer_home_sub_id": 1668,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 168,
+          "club_id": 0,
+          "PlayerName": "Chui, Yiu Chung",
+          "player_position": ""
+        },
+        "teamplayer_home_sub": {
+          "player_id": 157,
+          "club_id": 115,
+          "PlayerName": "So, Yiu Man",
+          "player_position": ""
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 88,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "Chui, Yiu Chung",
+              "player_position": ""
+            },
+            "player_id": 168,
+            "leagueyearteamplayer_id": 1679,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "11"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "So, Yiu Man",
+              "player_position": ""
+            },
+            "player_id": 157,
+            "leagueyearteamplayer_id": 1668,
+            "leagueyearteam_id": 70,
+            "clubplayer_id": null,
+            "player_jersey": "9"
+          }
+        }
+      }
+    ],
+    "report": null
+  },
+  "HomePlayersTable": [
+    {
+      "Player": {
+        "player_id": 21,
+        "PlayerName": "Tse, Tak Him",
+        "player_position": "GK"
+      },
+      "player_id": 21,
+      "captain": false,
+      "leagueyearteamplayer_id": 1664,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "26"
+    },
+    {
+      "Player": {
+        "player_id": 22,
+        "PlayerName": "Lai, Ka Fai",
+        "player_position": "DF"
+      },
+      "player_id": 22,
+      "captain": true,
+      "leagueyearteamplayer_id": 1665,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "2"
+    },
+    {
+      "Player": {
+        "player_id": 154,
+        "PlayerName": "Wang, Zhengchuang",
+        "player_position": "Defender"
+      },
+      "player_id": 154,
+      "captain": false,
+      "leagueyearteamplayer_id": 1666,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "3"
+    },
+    {
+      "Player": {
+        "player_id": 156,
+        "PlayerName": "Baise, Festus",
+        "player_position": "MF"
+      },
+      "player_id": 156,
+      "captain": false,
+      "leagueyearteamplayer_id": 1667,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "7"
+    },
+    {
+      "Player": {
+        "player_id": 157,
+        "PlayerName": "So, Yiu Man",
+        "player_position": ""
+      },
+      "player_id": 157,
+      "captain": false,
+      "leagueyearteamplayer_id": 1668,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 158,
+        "PlayerName": "Lo, Chun Kit Toby",
+        "player_position": ""
+      },
+      "player_id": 158,
+      "captain": false,
+      "leagueyearteamplayer_id": 1669,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "13"
+    },
+    {
+      "Player": {
+        "player_id": 159,
+        "PlayerName": "Leung, Chun Pong",
+        "player_position": "CM"
+      },
+      "player_id": 159,
+      "captain": false,
+      "leagueyearteamplayer_id": 1670,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "16"
+    },
+    {
+      "Player": {
+        "player_id": 161,
+        "PlayerName": "Yuan, Yang",
+        "player_position": "MF"
+      },
+      "player_id": 161,
+      "captain": false,
+      "leagueyearteamplayer_id": 1671,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "19"
+    },
+    {
+      "Player": {
+        "player_id": 160,
+        "PlayerName": "Nyatepe, Anthony Dela",
+        "player_position": "MF"
+      },
+      "player_id": 160,
+      "captain": false,
+      "leagueyearteamplayer_id": 1672,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "18"
+    },
+    {
+      "Player": {
+        "player_id": 162,
+        "PlayerName": "Chao, Peng Fei",
+        "player_position": "MF"
+      },
+      "player_id": 162,
+      "captain": false,
+      "leagueyearteamplayer_id": 1673,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "30"
+    },
+    {
+      "Player": {
+        "player_id": 155,
+        "PlayerName": "Anane, Yaw",
+        "player_position": "Midfielder"
+      },
+      "player_id": 155,
+      "captain": false,
+      "leagueyearteamplayer_id": 1684,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "4"
+    }
+  ],
+  "GuestPlayersTable": [
+    {
+      "Player": {
+        "player_id": 115,
+        "PlayerName": "Chan, Ka Ki",
+        "player_position": ""
+      },
+      "player_id": 115,
+      "captain": false,
+      "leagueyearteamplayer_id": 1538,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "21"
+    },
+    {
+      "Player": {
+        "player_id": 125,
+        "PlayerName": "Cordiero, Cristiano Preigchadt",
+        "player_position": ""
+      },
+      "player_id": 125,
+      "captain": false,
+      "leagueyearteamplayer_id": 1548,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "33"
+    },
+    {
+      "Player": {
+        "player_id": 124,
+        "PlayerName": "Leung, Chi Wing",
+        "player_position": ""
+      },
+      "player_id": 124,
+      "captain": false,
+      "leagueyearteamplayer_id": 1547,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "23"
+    },
+    {
+      "Player": {
+        "player_id": 123,
+        "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+        "player_position": ""
+      },
+      "player_id": 123,
+      "captain": false,
+      "leagueyearteamplayer_id": 1546,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "22"
+    },
+    {
+      "Player": {
+        "player_id": 122,
+        "PlayerName": "Freitas, Fladimir Da Cruz",
+        "player_position": "Midfielder"
+      },
+      "player_id": 122,
+      "captain": false,
+      "leagueyearteamplayer_id": 1545,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "19"
+    },
+    {
+      "Player": {
+        "player_id": 121,
+        "PlayerName": "Lai, Kai Cheuk",
+        "player_position": ""
+      },
+      "player_id": 121,
+      "captain": false,
+      "leagueyearteamplayer_id": 1544,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "16"
+    },
+    {
+      "Player": {
+        "player_id": 120,
+        "PlayerName": "Lee, Wai Lun",
+        "player_position": ""
+      },
+      "player_id": 120,
+      "captain": false,
+      "leagueyearteamplayer_id": 1543,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "15"
+    },
+    {
+      "Player": {
+        "player_id": 119,
+        "PlayerName": "Lee, Kin Wo",
+        "player_position": ""
+      },
+      "player_id": 119,
+      "captain": true,
+      "leagueyearteamplayer_id": 1542,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 118,
+        "PlayerName": "Chan, Yiu Lun",
+        "player_position": ""
+      },
+      "player_id": 118,
+      "captain": false,
+      "leagueyearteamplayer_id": 1541,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "10"
+    },
+    {
+      "Player": {
+        "player_id": 117,
+        "PlayerName": "Akosah, Julius Pongla",
+        "player_position": "FW"
+      },
+      "player_id": 117,
+      "captain": false,
+      "leagueyearteamplayer_id": 1540,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 116,
+        "PlayerName": "Hartwig, Carlo Andre Bielemann",
+        "player_position": "Defender"
+      },
+      "player_id": 116,
+      "captain": false,
+      "leagueyearteamplayer_id": 1539,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    }
+  ],
+  "HomeSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 163,
+        "PlayerName": "Cheung, King Wah",
+        "player_position": ""
+      },
+      "player_id": 163,
+      "captain": false,
+      "leagueyearteamplayer_id": 1674,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 164,
+        "PlayerName": "Li, Hang Wui",
+        "player_position": ""
+      },
+      "player_id": 164,
+      "captain": false,
+      "leagueyearteamplayer_id": 1675,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    },
+    {
+      "Player": {
+        "player_id": 165,
+        "PlayerName": "Xu, Deshuai",
+        "player_position": "MF"
+      },
+      "player_id": 165,
+      "captain": false,
+      "leagueyearteamplayer_id": 1676,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    },
+    {
+      "Player": {
+        "player_id": 166,
+        "PlayerName": "Yau, Kam Leung",
+        "player_position": ""
+      },
+      "player_id": 166,
+      "captain": false,
+      "leagueyearteamplayer_id": 1677,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "12"
+    },
+    {
+      "Player": {
+        "player_id": 167,
+        "PlayerName": "Mensah, Moses",
+        "player_position": "DF"
+      },
+      "player_id": 167,
+      "captain": false,
+      "leagueyearteamplayer_id": 1678,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "15"
+    },
+    {
+      "Player": {
+        "player_id": 168,
+        "PlayerName": "Chui, Yiu Chung",
+        "player_position": ""
+      },
+      "player_id": 168,
+      "captain": false,
+      "leagueyearteamplayer_id": 1679,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 169,
+        "PlayerName": "Wu, Haopeng",
+        "player_position": ""
+      },
+      "player_id": 169,
+      "captain": false,
+      "leagueyearteamplayer_id": 1680,
+      "leagueyearteam_id": 70,
+      "clubplayer_id": null,
+      "player_jersey": "28"
+    }
+  ],
+  "GuestSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 15,
+        "PlayerName": "Chan, Domingos",
+        "player_position": ""
+      },
+      "player_id": 15,
+      "captain": false,
+      "leagueyearteamplayer_id": 1536,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 130,
+        "PlayerName": "Poon, Man Tik",
+        "player_position": ""
+      },
+      "player_id": 130,
+      "captain": false,
+      "leagueyearteamplayer_id": 1553,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "24"
+    },
+    {
+      "Player": {
+        "player_id": 129,
+        "PlayerName": "Chan, Ho Man",
+        "player_position": ""
+      },
+      "player_id": 129,
+      "captain": false,
+      "leagueyearteamplayer_id": 1552,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "18"
+    },
+    {
+      "Player": {
+        "player_id": 128,
+        "PlayerName": "Lo, Chi Kwan",
+        "player_position": ""
+      },
+      "player_id": 128,
+      "captain": false,
+      "leagueyearteamplayer_id": 1551,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "14"
+    },
+    {
+      "Player": {
+        "player_id": 127,
+        "PlayerName": "Pau, Ka Yiu",
+        "player_position": "Midfielder"
+      },
+      "player_id": 127,
+      "captain": false,
+      "leagueyearteamplayer_id": 1550,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    },
+    {
+      "Player": {
+        "player_id": 126,
+        "PlayerName": "Chung, Kin Hei",
+        "player_position": ""
+      },
+      "player_id": 126,
+      "captain": false,
+      "leagueyearteamplayer_id": 1549,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "3"
+    },
+    {
+      "Player": {
+        "player_id": 16,
+        "PlayerName": "Tseng, Siu Wing",
+        "player_position": ""
+      },
+      "player_id": 16,
+      "captain": false,
+      "leagueyearteamplayer_id": 1537,
+      "leagueyearteam_id": 64,
+      "clubplayer_id": null,
+      "player_jersey": "2"
+    }
+  ],
+  "HomeStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 3,
+    "rc": 0
+  },
+  "GuestStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 4,
+    "rc": 1
+  },
+  "HomeGoalPlayerTable": [
+    {
+      "teamplayer_home_id": 1673,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 162,
+        "club_id": 0,
+        "PlayerName": "Chao, Peng Fei",
+        "player_position": "MF"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Home",
+      "min": 21,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestGoalPlayerTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1542,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 119,
+        "club_id": 0,
+        "PlayerName": "Lee, Kin Wo",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Guest",
+      "min": 50,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1542,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 119,
+        "club_id": 0,
+        "PlayerName": "Lee, Kin Wo",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Guest",
+      "min": 57,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "Home12YPlayerTable": [],
+  "Guest12YPlayerTable": [],
+  "HomeYCTable": [
+    {
+      "teamplayer_home_id": 1667,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 156,
+        "club_id": 9,
+        "PlayerName": "Baise, Festus",
+        "player_position": "MF"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Home",
+      "min": 23,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 1672,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 160,
+        "club_id": 9,
+        "PlayerName": "Nyatepe, Anthony Dela",
+        "player_position": "MF"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Home",
+      "min": 31,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 1666,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 154,
+        "club_id": 0,
+        "PlayerName": "Wang, Zhengchuang",
+        "player_position": "Defender"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Home",
+      "min": 90,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestYCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1539,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 116,
+        "club_id": 0,
+        "PlayerName": "Hartwig, Carlo Andre Bielemann",
+        "player_position": "Defender"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 18,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1547,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 124,
+        "club_id": 115,
+        "PlayerName": "Leung, Chi Wing",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 36,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1542,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 119,
+        "club_id": 0,
+        "PlayerName": "Lee, Kin Wo",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 42,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1541,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 118,
+        "club_id": 0,
+        "PlayerName": "Chan, Yiu Lun",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 55,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "HomeRCTable": [],
+  "GuestRCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1539,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 116,
+        "club_id": 0,
+        "PlayerName": "Hartwig, Carlo Andre Bielemann",
+        "player_position": "Defender"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "RC",
+      "side": "Guest",
+      "min": 90,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "HomeEXCTable": [
+    {
+      "teamplayer_home_id": 1676,
+      "teamplayer_home_sub_id": 1670,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 165,
+        "club_id": 9,
+        "PlayerName": "Xu, Deshuai",
+        "player_position": "MF"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 159,
+        "club_id": 115,
+        "PlayerName": "Leung, Chun Pong",
+        "player_position": "CM"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 75,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "Xu, Deshuai",
+            "player_position": "MF"
+          },
+          "player_id": 165,
+          "leagueyearteamplayer_id": 1676,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "8"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Leung, Chun Pong",
+            "player_position": "CM"
+          },
+          "player_id": 159,
+          "leagueyearteamplayer_id": 1670,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "16"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 1678,
+      "teamplayer_home_sub_id": 1673,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 167,
+        "club_id": 9,
+        "PlayerName": "Mensah, Moses",
+        "player_position": "DF"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 162,
+        "club_id": 0,
+        "PlayerName": "Chao, Peng Fei",
+        "player_position": "MF"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 88,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "Mensah, Moses",
+            "player_position": "DF"
+          },
+          "player_id": 167,
+          "leagueyearteamplayer_id": 1678,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "15"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Chao, Peng Fei",
+            "player_position": "MF"
+          },
+          "player_id": 162,
+          "leagueyearteamplayer_id": 1673,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "30"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 1679,
+      "teamplayer_home_sub_id": 1668,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 168,
+        "club_id": 0,
+        "PlayerName": "Chui, Yiu Chung",
+        "player_position": ""
+      },
+      "teamplayer_home_sub": {
+        "player_id": 157,
+        "club_id": 115,
+        "PlayerName": "So, Yiu Man",
+        "player_position": ""
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 88,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "Chui, Yiu Chung",
+            "player_position": ""
+          },
+          "player_id": 168,
+          "leagueyearteamplayer_id": 1679,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "11"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "So, Yiu Man",
+            "player_position": ""
+          },
+          "player_id": 157,
+          "leagueyearteamplayer_id": 1668,
+          "leagueyearteam_id": 70,
+          "clubplayer_id": null,
+          "player_jersey": "9"
+        }
+      }
+    }
+  ],
+  "GuestEXCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1552,
+      "teamplayer_guest_sub_id": 1540,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 129,
+        "club_id": 0,
+        "PlayerName": "Chan, Ho Man",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 117,
+        "club_id": 115,
+        "PlayerName": "Akosah, Julius Pongla",
+        "player_position": "FW"
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 40,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "Chan, Ho Man",
+            "player_position": ""
+          },
+          "player_id": 129,
+          "leagueyearteamplayer_id": 1552,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "18"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Akosah, Julius Pongla",
+            "player_position": "FW"
+          },
+          "player_id": 117,
+          "leagueyearteamplayer_id": 1540,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "9"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1551,
+      "teamplayer_guest_sub_id": 1541,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 128,
+        "club_id": 0,
+        "PlayerName": "Lo, Chi Kwan",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 118,
+        "club_id": 0,
+        "PlayerName": "Chan, Yiu Lun",
+        "player_position": ""
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 73,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "Lo, Chi Kwan",
+            "player_position": ""
+          },
+          "player_id": 128,
+          "leagueyearteamplayer_id": 1551,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "14"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Chan, Yiu Lun",
+            "player_position": ""
+          },
+          "player_id": 118,
+          "leagueyearteamplayer_id": 1541,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "10"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 1553,
+      "teamplayer_guest_sub_id": 1546,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 130,
+        "club_id": 115,
+        "PlayerName": "Poon, Man Tik",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 123,
+        "club_id": 0,
+        "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+        "player_position": ""
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 85,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "Poon, Man Tik",
+            "player_position": ""
+          },
+          "player_id": 130,
+          "leagueyearteamplayer_id": 1553,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "24"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Rodrigues, Jorge Claudio Conceicao",
+            "player_position": ""
+          },
+          "player_id": 123,
+          "leagueyearteamplayer_id": 1546,
+          "leagueyearteam_id": 64,
+          "clubplayer_id": null,
+          "player_jersey": "22"
+        }
+      }
+    }
+  ]
+}

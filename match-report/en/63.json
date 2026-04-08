@@ -1,0 +1,1667 @@
+{
+  "MatchData": {
+    "match_description": "",
+    "match_time": "14:00",
+    "home_score": 2,
+    "guest_score": 0,
+    "match_id": 63,
+    "match_date": "2005-10-22",
+    "matchStatus": "Finished",
+    "match_attendance": null,
+    "match_status": 1,
+    "venue_id": 2,
+    "live_icon": [],
+    "home_shoot": null,
+    "guest_shoot": null,
+    "home_shoot_on_target": null,
+    "guest_shoot_on_target": null,
+    "home_corner": null,
+    "guest_corner": null,
+    "home_offside": null,
+    "guest_offside": null,
+    "home_fouls": null,
+    "guest_fouls": null,
+    "home_saves": null,
+    "guest_saves": null,
+    "home_12y_point": 0,
+    "guest_12y_point": 0,
+    "referee1": "",
+    "referee2": "",
+    "referee3": "",
+    "referee4": "",
+    "Venue": {
+      "venue_id": 2,
+      "VenueName": "Mongkok Stadium"
+    },
+    "LeagueYear": {
+      "league_id": 1,
+      "LeagueYearName": "Coolpoint Ventilation First Division League"
+    },
+    "team_home": {
+      "Club": {
+        "club_id": 3
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team_logo/Rangers_Logo_Final_1.png",
+      "TeamName": "Rangers"
+    },
+    "team_guest": {
+      "Club": {
+        "club_id": 7
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team/logo/20082009/div1/sheffutd.jpg",
+      "TeamName": "Lanwa Redbull"
+    },
+    "HomePlayers": [
+      {
+        "Player": {
+          "player_id": 9,
+          "PlayerName": "Cheung, Wai Hong",
+          "player_position": "GoalKeeper"
+        },
+        "player_id": 9,
+        "captain": false,
+        "leagueyearteamplayer_id": 23,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "31"
+      },
+      {
+        "Player": {
+          "player_id": 51,
+          "PlayerName": "Man, Pei Tak",
+          "player_position": ""
+        },
+        "player_id": 51,
+        "captain": false,
+        "leagueyearteamplayer_id": 50,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "21"
+      },
+      {
+        "Player": {
+          "player_id": 50,
+          "PlayerName": "Chan, Wai Ho",
+          "player_position": ""
+        },
+        "player_id": 50,
+        "captain": false,
+        "leagueyearteamplayer_id": 49,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "19"
+      },
+      {
+        "Player": {
+          "player_id": 10,
+          "PlayerName": "Agbo, Wisdom Fofo",
+          "player_position": "DF"
+        },
+        "player_id": 10,
+        "captain": false,
+        "leagueyearteamplayer_id": 24,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "4"
+      },
+      {
+        "Player": {
+          "player_id": 43,
+          "PlayerName": "Wong, Chin Hung",
+          "player_position": "MF"
+        },
+        "player_id": 43,
+        "captain": false,
+        "leagueyearteamplayer_id": 42,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      },
+      {
+        "Player": {
+          "player_id": 44,
+          "PlayerName": "Fan, Weijun",
+          "player_position": "FW"
+        },
+        "player_id": 44,
+        "captain": false,
+        "leagueyearteamplayer_id": 43,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 45,
+          "PlayerName": "Lam, Ka Wai",
+          "player_position": "MF"
+        },
+        "player_id": 45,
+        "captain": false,
+        "leagueyearteamplayer_id": 44,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "10"
+      },
+      {
+        "Player": {
+          "player_id": 46,
+          "PlayerName": "Karikari, Godfred",
+          "player_position": ""
+        },
+        "player_id": 46,
+        "captain": false,
+        "leagueyearteamplayer_id": 45,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 47,
+          "PlayerName": "Lo, Kwan Yee",
+          "player_position": "MF"
+        },
+        "player_id": 47,
+        "captain": false,
+        "leagueyearteamplayer_id": 46,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "12"
+      },
+      {
+        "Player": {
+          "player_id": 48,
+          "PlayerName": "Yip, Chi Ho",
+          "player_position": ""
+        },
+        "player_id": 48,
+        "captain": false,
+        "leagueyearteamplayer_id": 47,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "13"
+      },
+      {
+        "Player": {
+          "player_id": 49,
+          "PlayerName": "Gong, Min",
+          "player_position": "Defender"
+        },
+        "player_id": 49,
+        "captain": false,
+        "leagueyearteamplayer_id": 48,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "17"
+      }
+    ],
+    "HomeSubPlayers": [
+      {
+        "Player": {
+          "player_id": 52,
+          "PlayerName": "Tung, Ho Yin",
+          "player_position": ""
+        },
+        "player_id": 52,
+        "captain": false,
+        "leagueyearteamplayer_id": 51,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 53,
+          "PlayerName": "Chiu, Chun Kit",
+          "player_position": "DF"
+        },
+        "player_id": 53,
+        "captain": false,
+        "leagueyearteamplayer_id": 52,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "3"
+      },
+      {
+        "Player": {
+          "player_id": 54,
+          "PlayerName": "Wu, Jun",
+          "player_position": "Midfielder"
+        },
+        "player_id": 54,
+        "captain": false,
+        "leagueyearteamplayer_id": 53,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "6"
+      },
+      {
+        "Player": {
+          "player_id": 55,
+          "PlayerName": "So, Loi Keung",
+          "player_position": ""
+        },
+        "player_id": 55,
+        "captain": false,
+        "leagueyearteamplayer_id": 54,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      },
+      {
+        "Player": {
+          "player_id": 56,
+          "PlayerName": "Chan, Siu Yuen",
+          "player_position": ""
+        },
+        "player_id": 56,
+        "captain": false,
+        "leagueyearteamplayer_id": 55,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "14"
+      },
+      {
+        "Player": {
+          "player_id": 57,
+          "PlayerName": "Leung, Chi Kui",
+          "player_position": "Forward"
+        },
+        "player_id": 57,
+        "captain": false,
+        "leagueyearteamplayer_id": 56,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "18"
+      },
+      {
+        "Player": {
+          "player_id": 58,
+          "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+          "player_position": "Forward"
+        },
+        "player_id": 58,
+        "captain": false,
+        "leagueyearteamplayer_id": 57,
+        "leagueyearteam_id": 8,
+        "clubplayer_id": null,
+        "player_jersey": "20"
+      }
+    ],
+    "GuestPlayers": [
+      {
+        "Player": {
+          "player_id": 17,
+          "PlayerName": "Shi, Meng",
+          "player_position": "GoalKeeper"
+        },
+        "player_id": 17,
+        "captain": false,
+        "leagueyearteamplayer_id": 4,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "17"
+      },
+      {
+        "Player": {
+          "player_id": 18,
+          "PlayerName": "You, Long",
+          "player_position": "Defender"
+        },
+        "player_id": 18,
+        "captain": false,
+        "leagueyearteamplayer_id": 5,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "2"
+      },
+      {
+        "Player": {
+          "player_id": 78,
+          "PlayerName": "Cisse, Mamoudou",
+          "player_position": ""
+        },
+        "player_id": 78,
+        "captain": false,
+        "leagueyearteamplayer_id": 76,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      },
+      {
+        "Player": {
+          "player_id": 79,
+          "PlayerName": "Liu, Zhonglin",
+          "player_position": "Midfielder"
+        },
+        "player_id": 79,
+        "captain": false,
+        "leagueyearteamplayer_id": 77,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "7"
+      },
+      {
+        "Player": {
+          "player_id": 80,
+          "PlayerName": "Chi, Jingtian",
+          "player_position": "Midfielder"
+        },
+        "player_id": 80,
+        "captain": false,
+        "leagueyearteamplayer_id": 78,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      },
+      {
+        "Player": {
+          "player_id": 81,
+          "PlayerName": "Xu, Bo",
+          "player_position": "Forward"
+        },
+        "player_id": 81,
+        "captain": false,
+        "leagueyearteamplayer_id": 79,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 82,
+          "PlayerName": "Chen, Xiaoyang",
+          "player_position": "Midfielder"
+        },
+        "player_id": 82,
+        "captain": false,
+        "leagueyearteamplayer_id": 80,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 83,
+          "PlayerName": "Li, Zongjun",
+          "player_position": "Defender"
+        },
+        "player_id": 83,
+        "captain": false,
+        "leagueyearteamplayer_id": 81,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "14"
+      },
+      {
+        "Player": {
+          "player_id": 84,
+          "PlayerName": "An, Ran",
+          "player_position": "Midfielder"
+        },
+        "player_id": 84,
+        "captain": false,
+        "leagueyearteamplayer_id": 82,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "15"
+      },
+      {
+        "Player": {
+          "player_id": 85,
+          "PlayerName": "Fu, Song",
+          "player_position": "Defender"
+        },
+        "player_id": 85,
+        "captain": false,
+        "leagueyearteamplayer_id": 83,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "18"
+      },
+      {
+        "Player": {
+          "player_id": 86,
+          "PlayerName": "Zhang, Zhipeng",
+          "player_position": "Defender"
+        },
+        "player_id": 86,
+        "captain": false,
+        "leagueyearteamplayer_id": 84,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "21"
+      }
+    ],
+    "GuestSubPlayers": [
+      {
+        "Player": {
+          "player_id": 87,
+          "PlayerName": "Jiang, Yuchen",
+          "player_position": "GoalKeeper"
+        },
+        "player_id": 87,
+        "captain": false,
+        "leagueyearteamplayer_id": 85,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 89,
+          "PlayerName": "Han, Dong",
+          "player_position": "Midfielder"
+        },
+        "player_id": 89,
+        "captain": false,
+        "leagueyearteamplayer_id": 87,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "16"
+      },
+      {
+        "Player": {
+          "player_id": 88,
+          "PlayerName": "Lin, Zhong",
+          "player_position": "FW"
+        },
+        "player_id": 88,
+        "captain": false,
+        "leagueyearteamplayer_id": 86,
+        "leagueyearteam_id": 1,
+        "clubplayer_id": null,
+        "player_jersey": "10"
+      }
+    ],
+    "MatchEvents": [
+      {
+        "teamplayer_home_id": 43,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 44,
+          "club_id": 2,
+          "PlayerName": "Fan, Weijun",
+          "player_position": "FW"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Home",
+        "min": 25,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 46,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 47,
+          "club_id": 115,
+          "PlayerName": "Lo, Kwan Yee",
+          "player_position": "MF"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Home",
+        "min": 26,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 81,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 83,
+          "club_id": 0,
+          "PlayerName": "Li, Zongjun",
+          "player_position": "Defender"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 22,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 77,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 79,
+          "club_id": 0,
+          "PlayerName": "Liu, Zhonglin",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 30,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 86,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 88,
+          "club_id": 0,
+          "PlayerName": "Lin, Zhong",
+          "player_position": "FW"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 51,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 76,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 78,
+          "club_id": 0,
+          "PlayerName": "Cisse, Mamoudou",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 54,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 45,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 46,
+          "club_id": 0,
+          "PlayerName": "Karikari, Godfred",
+          "player_position": ""
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Home",
+        "min": 57,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 79,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 81,
+          "club_id": 0,
+          "PlayerName": "Xu, Bo",
+          "player_position": "Forward"
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 61,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 53,
+        "teamplayer_home_sub_id": 48,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 54,
+          "club_id": 0,
+          "PlayerName": "Wu, Jun",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 49,
+          "club_id": 0,
+          "PlayerName": "Gong, Min",
+          "player_position": "Defender"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 38,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "Wu, Jun",
+              "player_position": "Midfielder"
+            },
+            "player_id": 54,
+            "leagueyearteamplayer_id": 53,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "6"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Gong, Min",
+              "player_position": "Defender"
+            },
+            "player_id": 49,
+            "leagueyearteamplayer_id": 48,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "17"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 86,
+        "teamplayer_guest_sub_id": 83,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 88,
+          "club_id": 0,
+          "PlayerName": "Lin, Zhong",
+          "player_position": "FW"
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 85,
+          "club_id": 0,
+          "PlayerName": "Fu, Song",
+          "player_position": "Defender"
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 46,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "Lin, Zhong",
+              "player_position": "FW"
+            },
+            "player_id": 88,
+            "leagueyearteamplayer_id": 86,
+            "leagueyearteam_id": 1,
+            "clubplayer_id": null,
+            "player_jersey": "10"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Fu, Song",
+              "player_position": "Defender"
+            },
+            "player_id": 85,
+            "leagueyearteamplayer_id": 83,
+            "leagueyearteam_id": 1,
+            "clubplayer_id": null,
+            "player_jersey": "18"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 57,
+        "teamplayer_home_sub_id": 45,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 58,
+          "club_id": 0,
+          "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+          "player_position": "Forward"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 46,
+          "club_id": 0,
+          "PlayerName": "Karikari, Godfred",
+          "player_position": ""
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 59,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+              "player_position": "Forward"
+            },
+            "player_id": 58,
+            "leagueyearteamplayer_id": 57,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "20"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Karikari, Godfred",
+              "player_position": ""
+            },
+            "player_id": 46,
+            "leagueyearteamplayer_id": 45,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "11"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 54,
+        "teamplayer_home_sub_id": 53,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 55,
+          "club_id": 0,
+          "PlayerName": "So, Loi Keung",
+          "player_position": ""
+        },
+        "teamplayer_home_sub": {
+          "player_id": 54,
+          "club_id": 0,
+          "PlayerName": "Wu, Jun",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 66,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "So, Loi Keung",
+              "player_position": ""
+            },
+            "player_id": 55,
+            "leagueyearteamplayer_id": 54,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "8"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "Wu, Jun",
+              "player_position": "Midfielder"
+            },
+            "player_id": 54,
+            "leagueyearteamplayer_id": 53,
+            "leagueyearteam_id": 8,
+            "clubplayer_id": null,
+            "player_jersey": "6"
+          }
+        }
+      }
+    ],
+    "report": {
+      "news_id": 3312,
+      "news_date": "2005-10-22",
+      "news_title": "澎馬流浪兩球淨勝聯華，公民二比一力挫南華",
+      "news_abstract": "澎馬流浪兩球淨勝聯華，公民二比一力挫南華",
+      "news_content": "<p><!--l version=\"1.0--><article></article><generator></generator>&nbsp;<intro></intro>今午在旺角大球場上演兩仗快意空調甲組聯賽，比賽結果。</p>\r\n<p>頭場澎馬流浪以二比零擊敗作客的聯華，澎馬流浪目前以六戰十五分的成績，居於聯賽榜次席，而賽了六場比賽的聯華，則以五分的成績居於聯賽榜第七位。</p>\r\n<p>尾場公民以二比一力挫南華，雙方均完成首循環賽事，公民以七戰七分的成績，升上聯賽榜第五位，而南華則以七戰五分的成績，以較佳球差壓倒聯華，居於聯賽榜第六位。 </p>\r\n<p>\r\n<page></page>\r\n頭場澎馬流浪出戰聯華。</p>\r\n<p>上半場比賽展開，四分鐘，聯華進攻，張志鵬引球出擊，傳交陳曉陽，陳第一時間交柳鍾林抽射，皮球僅高出越野。七分鐘，澎馬流浪反撲，高梵左路推入底線，橫傳中路，樊偉軍接應扣射，皮球撞中聯華後衛彈出，無功而還。 八分鐘，樊偉軍接應角球第一時間撞射，聯華門將時萌及時擋出。十一分鐘，聯華策動攻勢，張志鵬傳入中路，徐博射向遠柱，皮球貼柱出界。十四分鐘，澎馬流浪進攻，葉志豪右路推上，傳交林嘉緯起腳施射，時萌撲接甩手復接回。 二十五分鐘，林嘉緯左路引球前進，快傳高梵，高梵突破聯華後防直推入聯華腹地，騙過時萌傳交攝入禁區的樊偉軍，樊控定來球第一時間抽射入網，一比零澎馬流浪先開紀錄。二十六分鐘，澎馬流浪再施壓，林嘉緯傳交樊偉軍，樊接應扣橫，再傳入禁區的盧均宜，盧把握機會順腳一抽，皮球應聲入網，二比零，澎馬流浪增添紀錄。三十二分鐘，盧均宜接應樊偉軍的橫傳，起腳命射，惜高出，未能中目標。上半場結束，澎馬流浪兩球佔先。 </p>\r\n<p>下半場續戰，五十七分鐘，澎馬流浪獲得一隻罰球，林嘉緯彎向死角，時萌及時托出底線，化險為夷。七十四分鐘，澎馬流浪後備上陣的哥連斯傳交樊偉軍扣射，時萌一抱入懷。七十六分鐘，樊偉軍傳交哥連斯掃射，時萌出迎把球拍出。七十八分鐘，哥連斯引球推進，單刀直入禁區起腳施射，惜乏力，時萌輕易沒收來球。補的階段，哥連斯得機抽射，時萌擋出不遠，盧均宜衝上扣射出界，未幾，球證鳴笛完場，澎馬流浪以兩球擊退聯華，全奪聯賽三分。</p>\r\n<p>&nbsp;尾場南華撲擊公民。</p>\r\n<p>上半場開賽僅兩分鐘，南華郭建邦闖入公民禁區單刀施射，門將謝德謙出迎，第一時間用腳閂去皮球。十三分鐘，南華李志豪犯規，公民在峨嵋月前獲得一記罰球，法圖斯射破人牆死角入網，一比零，公民打開紀錄。 十九分鐘，法圖斯邊線扣射，惜高出，未能增添紀錄。二十五分鐘，公民再獲得一隻罰球，吳昊鵬吊入禁區，巢鵬飛力壓南華後衛頂高出界。二十九分鐘，巢鵬飛傳交友友扣射，南華門將鍾皓賢飛身拍出底線。 三十四分鐘，南華反撲，陳志康左路出擊，吊球入禁區，歐偉倫接應迎頂破網，一比一，南華扳成平手。四十分鐘，歐偉倫在公民禁區內將球頂後，鄭少偉近門接應掃射入網，但旁證舉旗示意越位，南華吃了一記「詐糊」。上半場完結，雙方各一平手，未分高下。 </p>\r\n<p>換邊續戰，五十一分鐘，公民進攻，友友罰球斬入禁區，巢鵬飛扣射，鍾皓賢接去。五十三分鐘，公民獲得一記罰球，梁振邦吊入禁區，摩西斯頂漏，法圖斯補位，門前接應建功，梅開二度，二比一，公民再度領先。 七十二分鐘，摩西斯突破南華後防，推入左路抽射，皮球中楣底彈出。繼後時間，公民乘南華進攻，後防空虛，作出多次突擊，先後有安東尼、法圖斯和摩西斯扣關，但均被鍾皓賢瓦解。八十六分鐘，公民後備上陣的徐德帥得機射門，鍾皓賢封位擋出。補時階段，南華最後一擊，陳志康左路帶入禁區施射，謝德謙及時閂出，力保不失。旋球證鳴笛終場，公民以二比一力挫南華，奪取聯賽寶貴的三分。 </p>",
+      "news_image_1": "",
+      "news_image_2": "",
+      "news_image_3": "",
+      "news_image_4": "",
+      "news_image_5": "",
+      "news_image_6": "",
+      "news_league": false,
+      "news_hkteam_type": false
+    }
+  },
+  "HomePlayersTable": [
+    {
+      "Player": {
+        "player_id": 9,
+        "PlayerName": "Cheung, Wai Hong",
+        "player_position": "GoalKeeper"
+      },
+      "player_id": 9,
+      "captain": false,
+      "leagueyearteamplayer_id": 23,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "31"
+    },
+    {
+      "Player": {
+        "player_id": 51,
+        "PlayerName": "Man, Pei Tak",
+        "player_position": ""
+      },
+      "player_id": 51,
+      "captain": false,
+      "leagueyearteamplayer_id": 50,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "21"
+    },
+    {
+      "Player": {
+        "player_id": 50,
+        "PlayerName": "Chan, Wai Ho",
+        "player_position": ""
+      },
+      "player_id": 50,
+      "captain": false,
+      "leagueyearteamplayer_id": 49,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "19"
+    },
+    {
+      "Player": {
+        "player_id": 10,
+        "PlayerName": "Agbo, Wisdom Fofo",
+        "player_position": "DF"
+      },
+      "player_id": 10,
+      "captain": false,
+      "leagueyearteamplayer_id": 24,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "4"
+    },
+    {
+      "Player": {
+        "player_id": 43,
+        "PlayerName": "Wong, Chin Hung",
+        "player_position": "MF"
+      },
+      "player_id": 43,
+      "captain": false,
+      "leagueyearteamplayer_id": 42,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    },
+    {
+      "Player": {
+        "player_id": 44,
+        "PlayerName": "Fan, Weijun",
+        "player_position": "FW"
+      },
+      "player_id": 44,
+      "captain": false,
+      "leagueyearteamplayer_id": 43,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 45,
+        "PlayerName": "Lam, Ka Wai",
+        "player_position": "MF"
+      },
+      "player_id": 45,
+      "captain": false,
+      "leagueyearteamplayer_id": 44,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "10"
+    },
+    {
+      "Player": {
+        "player_id": 46,
+        "PlayerName": "Karikari, Godfred",
+        "player_position": ""
+      },
+      "player_id": 46,
+      "captain": false,
+      "leagueyearteamplayer_id": 45,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 47,
+        "PlayerName": "Lo, Kwan Yee",
+        "player_position": "MF"
+      },
+      "player_id": 47,
+      "captain": false,
+      "leagueyearteamplayer_id": 46,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "12"
+    },
+    {
+      "Player": {
+        "player_id": 48,
+        "PlayerName": "Yip, Chi Ho",
+        "player_position": ""
+      },
+      "player_id": 48,
+      "captain": false,
+      "leagueyearteamplayer_id": 47,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "13"
+    },
+    {
+      "Player": {
+        "player_id": 49,
+        "PlayerName": "Gong, Min",
+        "player_position": "Defender"
+      },
+      "player_id": 49,
+      "captain": false,
+      "leagueyearteamplayer_id": 48,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "17"
+    }
+  ],
+  "GuestPlayersTable": [
+    {
+      "Player": {
+        "player_id": 17,
+        "PlayerName": "Shi, Meng",
+        "player_position": "GoalKeeper"
+      },
+      "player_id": 17,
+      "captain": false,
+      "leagueyearteamplayer_id": 4,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "17"
+    },
+    {
+      "Player": {
+        "player_id": 18,
+        "PlayerName": "You, Long",
+        "player_position": "Defender"
+      },
+      "player_id": 18,
+      "captain": false,
+      "leagueyearteamplayer_id": 5,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "2"
+    },
+    {
+      "Player": {
+        "player_id": 78,
+        "PlayerName": "Cisse, Mamoudou",
+        "player_position": ""
+      },
+      "player_id": 78,
+      "captain": false,
+      "leagueyearteamplayer_id": 76,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    },
+    {
+      "Player": {
+        "player_id": 79,
+        "PlayerName": "Liu, Zhonglin",
+        "player_position": "Midfielder"
+      },
+      "player_id": 79,
+      "captain": false,
+      "leagueyearteamplayer_id": 77,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "7"
+    },
+    {
+      "Player": {
+        "player_id": 80,
+        "PlayerName": "Chi, Jingtian",
+        "player_position": "Midfielder"
+      },
+      "player_id": 80,
+      "captain": false,
+      "leagueyearteamplayer_id": 78,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    },
+    {
+      "Player": {
+        "player_id": 81,
+        "PlayerName": "Xu, Bo",
+        "player_position": "Forward"
+      },
+      "player_id": 81,
+      "captain": false,
+      "leagueyearteamplayer_id": 79,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 82,
+        "PlayerName": "Chen, Xiaoyang",
+        "player_position": "Midfielder"
+      },
+      "player_id": 82,
+      "captain": false,
+      "leagueyearteamplayer_id": 80,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 83,
+        "PlayerName": "Li, Zongjun",
+        "player_position": "Defender"
+      },
+      "player_id": 83,
+      "captain": false,
+      "leagueyearteamplayer_id": 81,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "14"
+    },
+    {
+      "Player": {
+        "player_id": 84,
+        "PlayerName": "An, Ran",
+        "player_position": "Midfielder"
+      },
+      "player_id": 84,
+      "captain": false,
+      "leagueyearteamplayer_id": 82,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "15"
+    },
+    {
+      "Player": {
+        "player_id": 85,
+        "PlayerName": "Fu, Song",
+        "player_position": "Defender"
+      },
+      "player_id": 85,
+      "captain": false,
+      "leagueyearteamplayer_id": 83,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "18"
+    },
+    {
+      "Player": {
+        "player_id": 86,
+        "PlayerName": "Zhang, Zhipeng",
+        "player_position": "Defender"
+      },
+      "player_id": 86,
+      "captain": false,
+      "leagueyearteamplayer_id": 84,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "21"
+    }
+  ],
+  "HomeSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 52,
+        "PlayerName": "Tung, Ho Yin",
+        "player_position": ""
+      },
+      "player_id": 52,
+      "captain": false,
+      "leagueyearteamplayer_id": 51,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 53,
+        "PlayerName": "Chiu, Chun Kit",
+        "player_position": "DF"
+      },
+      "player_id": 53,
+      "captain": false,
+      "leagueyearteamplayer_id": 52,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "3"
+    },
+    {
+      "Player": {
+        "player_id": 54,
+        "PlayerName": "Wu, Jun",
+        "player_position": "Midfielder"
+      },
+      "player_id": 54,
+      "captain": false,
+      "leagueyearteamplayer_id": 53,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "6"
+    },
+    {
+      "Player": {
+        "player_id": 55,
+        "PlayerName": "So, Loi Keung",
+        "player_position": ""
+      },
+      "player_id": 55,
+      "captain": false,
+      "leagueyearteamplayer_id": 54,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    },
+    {
+      "Player": {
+        "player_id": 56,
+        "PlayerName": "Chan, Siu Yuen",
+        "player_position": ""
+      },
+      "player_id": 56,
+      "captain": false,
+      "leagueyearteamplayer_id": 55,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "14"
+    },
+    {
+      "Player": {
+        "player_id": 57,
+        "PlayerName": "Leung, Chi Kui",
+        "player_position": "Forward"
+      },
+      "player_id": 57,
+      "captain": false,
+      "leagueyearteamplayer_id": 56,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "18"
+    },
+    {
+      "Player": {
+        "player_id": 58,
+        "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+        "player_position": "Forward"
+      },
+      "player_id": 58,
+      "captain": false,
+      "leagueyearteamplayer_id": 57,
+      "leagueyearteam_id": 8,
+      "clubplayer_id": null,
+      "player_jersey": "20"
+    }
+  ],
+  "GuestSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 87,
+        "PlayerName": "Jiang, Yuchen",
+        "player_position": "GoalKeeper"
+      },
+      "player_id": 87,
+      "captain": false,
+      "leagueyearteamplayer_id": 85,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 89,
+        "PlayerName": "Han, Dong",
+        "player_position": "Midfielder"
+      },
+      "player_id": 89,
+      "captain": false,
+      "leagueyearteamplayer_id": 87,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "16"
+    },
+    {
+      "Player": {
+        "player_id": 88,
+        "PlayerName": "Lin, Zhong",
+        "player_position": "FW"
+      },
+      "player_id": 88,
+      "captain": false,
+      "leagueyearteamplayer_id": 86,
+      "leagueyearteam_id": 1,
+      "clubplayer_id": null,
+      "player_jersey": "10"
+    }
+  ],
+  "HomeStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 1,
+    "rc": 0
+  },
+  "GuestStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 5,
+    "rc": 0
+  },
+  "HomeGoalPlayerTable": [
+    {
+      "teamplayer_home_id": 43,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 44,
+        "club_id": 2,
+        "PlayerName": "Fan, Weijun",
+        "player_position": "FW"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Home",
+      "min": 25,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 46,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 47,
+        "club_id": 115,
+        "PlayerName": "Lo, Kwan Yee",
+        "player_position": "MF"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Home",
+      "min": 26,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestGoalPlayerTable": [],
+  "Home12YPlayerTable": [],
+  "Guest12YPlayerTable": [],
+  "HomeYCTable": [
+    {
+      "teamplayer_home_id": 45,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 46,
+        "club_id": 0,
+        "PlayerName": "Karikari, Godfred",
+        "player_position": ""
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Home",
+      "min": 57,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestYCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 81,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 83,
+        "club_id": 0,
+        "PlayerName": "Li, Zongjun",
+        "player_position": "Defender"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 22,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 77,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 79,
+        "club_id": 0,
+        "PlayerName": "Liu, Zhonglin",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 30,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 86,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 88,
+        "club_id": 0,
+        "PlayerName": "Lin, Zhong",
+        "player_position": "FW"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 51,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 76,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 78,
+        "club_id": 0,
+        "PlayerName": "Cisse, Mamoudou",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 54,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 79,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 81,
+        "club_id": 0,
+        "PlayerName": "Xu, Bo",
+        "player_position": "Forward"
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 61,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "HomeRCTable": [],
+  "GuestRCTable": [],
+  "HomeEXCTable": [
+    {
+      "teamplayer_home_id": 53,
+      "teamplayer_home_sub_id": 48,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 54,
+        "club_id": 0,
+        "PlayerName": "Wu, Jun",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 49,
+        "club_id": 0,
+        "PlayerName": "Gong, Min",
+        "player_position": "Defender"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 38,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "Wu, Jun",
+            "player_position": "Midfielder"
+          },
+          "player_id": 54,
+          "leagueyearteamplayer_id": 53,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "6"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Gong, Min",
+            "player_position": "Defender"
+          },
+          "player_id": 49,
+          "leagueyearteamplayer_id": 48,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "17"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 57,
+      "teamplayer_home_sub_id": 45,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 58,
+        "club_id": 0,
+        "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+        "player_position": "Forward"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 46,
+        "club_id": 0,
+        "PlayerName": "Karikari, Godfred",
+        "player_position": ""
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 59,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "Udebuluzor, Cornelius Chi-Dubem",
+            "player_position": "Forward"
+          },
+          "player_id": 58,
+          "leagueyearteamplayer_id": 57,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "20"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Karikari, Godfred",
+            "player_position": ""
+          },
+          "player_id": 46,
+          "leagueyearteamplayer_id": 45,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "11"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 54,
+      "teamplayer_home_sub_id": 53,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 55,
+        "club_id": 0,
+        "PlayerName": "So, Loi Keung",
+        "player_position": ""
+      },
+      "teamplayer_home_sub": {
+        "player_id": 54,
+        "club_id": 0,
+        "PlayerName": "Wu, Jun",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 66,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "So, Loi Keung",
+            "player_position": ""
+          },
+          "player_id": 55,
+          "leagueyearteamplayer_id": 54,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "8"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Wu, Jun",
+            "player_position": "Midfielder"
+          },
+          "player_id": 54,
+          "leagueyearteamplayer_id": 53,
+          "leagueyearteam_id": 8,
+          "clubplayer_id": null,
+          "player_jersey": "6"
+        }
+      }
+    }
+  ],
+  "GuestEXCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 86,
+      "teamplayer_guest_sub_id": 83,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 88,
+        "club_id": 0,
+        "PlayerName": "Lin, Zhong",
+        "player_position": "FW"
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 85,
+        "club_id": 0,
+        "PlayerName": "Fu, Song",
+        "player_position": "Defender"
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 46,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "Lin, Zhong",
+            "player_position": "FW"
+          },
+          "player_id": 88,
+          "leagueyearteamplayer_id": 86,
+          "leagueyearteam_id": 1,
+          "clubplayer_id": null,
+          "player_jersey": "10"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "Fu, Song",
+            "player_position": "Defender"
+          },
+          "player_id": 85,
+          "leagueyearteamplayer_id": 83,
+          "leagueyearteam_id": 1,
+          "clubplayer_id": null,
+          "player_jersey": "18"
+        }
+      }
+    }
+  ]
+}

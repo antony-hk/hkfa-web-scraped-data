@@ -1,0 +1,1709 @@
+{
+  "MatchData": {
+    "match_description": "入場人數:16,841",
+    "match_time": "15:00",
+    "home_score": 2,
+    "guest_score": 0,
+    "match_id": 671,
+    "match_date": "2006-01-29",
+    "matchStatus": "完場",
+    "match_attendance": 16841,
+    "match_status": 1,
+    "venue_id": 1,
+    "live_icon": [],
+    "home_shoot": null,
+    "guest_shoot": null,
+    "home_shoot_on_target": null,
+    "guest_shoot_on_target": null,
+    "home_corner": null,
+    "guest_corner": null,
+    "home_offside": null,
+    "guest_offside": null,
+    "home_fouls": null,
+    "guest_fouls": null,
+    "home_saves": null,
+    "guest_saves": null,
+    "home_12y_point": 0,
+    "guest_12y_point": 0,
+    "referee1": "",
+    "referee2": "",
+    "referee3": "",
+    "referee4": "",
+    "Venue": {
+      "venue_id": 1,
+      "VenueName": "香港大球場"
+    },
+    "LeagueYear": {
+      "league_id": 14,
+      "LeagueYearName": "嘉士伯盃 2006"
+    },
+    "team_home": {
+      "Club": {
+        "club_id": 68
+      },
+      "clublogo": "",
+      "TeamName": "韓國"
+    },
+    "team_guest": {
+      "Club": {
+        "club_id": 69
+      },
+      "clublogo": "https://resource.hkfa.com/var/images/team/logo/national/croatia.gif",
+      "TeamName": "克羅地亞"
+    },
+    "HomePlayers": [
+      {
+        "Player": {
+          "player_id": 5191,
+          "PlayerName": "李雲在",
+          "player_position": "Goalkeeper"
+        },
+        "player_id": 5191,
+        "captain": true,
+        "leagueyearteamplayer_id": 3434,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 5211,
+          "PlayerName": "李天秀",
+          "player_position": "Forward"
+        },
+        "player_id": 5211,
+        "captain": false,
+        "leagueyearteamplayer_id": 3449,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "14"
+      },
+      {
+        "Player": {
+          "player_id": 5212,
+          "PlayerName": "鄭敬浩",
+          "player_position": "Forward"
+        },
+        "player_id": 5212,
+        "captain": false,
+        "leagueyearteamplayer_id": 3451,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "16"
+      },
+      {
+        "Player": {
+          "player_id": 5213,
+          "PlayerName": "李東國",
+          "player_position": "Forward"
+        },
+        "player_id": 5213,
+        "captain": false,
+        "leagueyearteamplayer_id": 3452,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "20"
+      },
+      {
+        "Player": {
+          "player_id": 5200,
+          "PlayerName": "金相植",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5200,
+        "captain": false,
+        "leagueyearteamplayer_id": 3447,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "13"
+      },
+      {
+        "Player": {
+          "player_id": 5202,
+          "PlayerName": "趙元希",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5202,
+        "captain": false,
+        "leagueyearteamplayer_id": 3446,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "23"
+      },
+      {
+        "Player": {
+          "player_id": 5203,
+          "PlayerName": "白知勳",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5203,
+        "captain": false,
+        "leagueyearteamplayer_id": 3445,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "21"
+      },
+      {
+        "Player": {
+          "player_id": 5194,
+          "PlayerName": "崔鎮哲",
+          "player_position": "Defender"
+        },
+        "player_id": 5194,
+        "captain": false,
+        "leagueyearteamplayer_id": 3437,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "4"
+      },
+      {
+        "Player": {
+          "player_id": 5205,
+          "PlayerName": "金政佑",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5205,
+        "captain": false,
+        "leagueyearteamplayer_id": 3441,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "15"
+      },
+      {
+        "Player": {
+          "player_id": 5204,
+          "PlayerName": "金東珍",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5204,
+        "captain": false,
+        "leagueyearteamplayer_id": 3442,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "3"
+      },
+      {
+        "Player": {
+          "player_id": 5201,
+          "PlayerName": "李浩",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5201,
+        "captain": false,
+        "leagueyearteamplayer_id": 3444,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "17"
+      }
+    ],
+    "HomeSubPlayers": [
+      {
+        "Player": {
+          "player_id": 5192,
+          "PlayerName": "金永光",
+          "player_position": "Goalkeeper"
+        },
+        "player_id": 5192,
+        "captain": false,
+        "leagueyearteamplayer_id": 3435,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "31"
+      },
+      {
+        "Player": {
+          "player_id": 5210,
+          "PlayerName": "朴主永",
+          "player_position": "Forward"
+        },
+        "player_id": 5210,
+        "captain": false,
+        "leagueyearteamplayer_id": 3450,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "10"
+      },
+      {
+        "Player": {
+          "player_id": 5208,
+          "PlayerName": "曹載真",
+          "player_position": "Forward"
+        },
+        "player_id": 5208,
+        "captain": false,
+        "leagueyearteamplayer_id": 3453,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 5199,
+          "PlayerName": "張學永",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5199,
+        "captain": false,
+        "leagueyearteamplayer_id": 3454,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 5196,
+          "PlayerName": "柳京烈",
+          "player_position": "Defender"
+        },
+        "player_id": 5196,
+        "captain": false,
+        "leagueyearteamplayer_id": 3439,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "2"
+      },
+      {
+        "Player": {
+          "player_id": 5195,
+          "PlayerName": "金榮哲",
+          "player_position": "Defender"
+        },
+        "player_id": 5195,
+        "captain": false,
+        "leagueyearteamplayer_id": 3440,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      },
+      {
+        "Player": {
+          "player_id": 5206,
+          "PlayerName": "金斗鉉",
+          "player_position": "Midfielder"
+        },
+        "player_id": 5206,
+        "captain": false,
+        "leagueyearteamplayer_id": 3443,
+        "leagueyearteam_id": 141,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      }
+    ],
+    "GuestPlayers": [
+      {
+        "Player": {
+          "player_id": 5235,
+          "PlayerName": "迪度里卡",
+          "player_position": ""
+        },
+        "player_id": 5235,
+        "captain": false,
+        "leagueyearteamplayer_id": 3476,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "1"
+      },
+      {
+        "Player": {
+          "player_id": 5242,
+          "PlayerName": "保斯積",
+          "player_position": ""
+        },
+        "player_id": 5242,
+        "captain": false,
+        "leagueyearteamplayer_id": 3489,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "14"
+      },
+      {
+        "Player": {
+          "player_id": 5238,
+          "PlayerName": "賓高",
+          "player_position": ""
+        },
+        "player_id": 5238,
+        "captain": false,
+        "leagueyearteamplayer_id": 3490,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "15"
+      },
+      {
+        "Player": {
+          "player_id": 5246,
+          "PlayerName": "尼高",
+          "player_position": ""
+        },
+        "player_id": 5246,
+        "captain": false,
+        "leagueyearteamplayer_id": 3491,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "16"
+      },
+      {
+        "Player": {
+          "player_id": 5247,
+          "PlayerName": "富根力",
+          "player_position": ""
+        },
+        "player_id": 5247,
+        "captain": false,
+        "leagueyearteamplayer_id": 3486,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "10"
+      },
+      {
+        "Player": {
+          "player_id": 5252,
+          "PlayerName": "迪施華",
+          "player_position": ""
+        },
+        "player_id": 5252,
+        "captain": false,
+        "leagueyearteamplayer_id": 3485,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "9"
+      },
+      {
+        "Player": {
+          "player_id": 5245,
+          "PlayerName": "巴拉丁力",
+          "player_position": ""
+        },
+        "player_id": 5245,
+        "captain": false,
+        "leagueyearteamplayer_id": 3484,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "8"
+      },
+      {
+        "Player": {
+          "player_id": 5275,
+          "PlayerName": "尼里積",
+          "player_position": null
+        },
+        "player_id": 5275,
+        "captain": false,
+        "leagueyearteamplayer_id": 3482,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "6"
+      },
+      {
+        "Player": {
+          "player_id": 5240,
+          "PlayerName": "杜基",
+          "player_position": ""
+        },
+        "player_id": 5240,
+        "captain": true,
+        "leagueyearteamplayer_id": 3481,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "5"
+      },
+      {
+        "Player": {
+          "player_id": 5255,
+          "PlayerName": "耶斯",
+          "player_position": ""
+        },
+        "player_id": 5255,
+        "captain": false,
+        "leagueyearteamplayer_id": 3480,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "4"
+      },
+      {
+        "Player": {
+          "player_id": 5248,
+          "PlayerName": "卡蘭積卡",
+          "player_position": ""
+        },
+        "player_id": 5248,
+        "captain": false,
+        "leagueyearteamplayer_id": 3494,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "19"
+      }
+    ],
+    "GuestSubPlayers": [
+      {
+        "Player": {
+          "player_id": 5253,
+          "PlayerName": "柏域",
+          "player_position": ""
+        },
+        "player_id": 5253,
+        "captain": false,
+        "leagueyearteamplayer_id": 3487,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "11"
+      },
+      {
+        "Player": {
+          "player_id": 5256,
+          "PlayerName": "根沙域",
+          "player_position": ""
+        },
+        "player_id": 5256,
+        "captain": false,
+        "leagueyearteamplayer_id": 3488,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "13"
+      },
+      {
+        "Player": {
+          "player_id": 5241,
+          "PlayerName": "連力",
+          "player_position": ""
+        },
+        "player_id": 5241,
+        "captain": false,
+        "leagueyearteamplayer_id": 3492,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "17"
+      },
+      {
+        "Player": {
+          "player_id": 5276,
+          "PlayerName": "沙菲域",
+          "player_position": null
+        },
+        "player_id": 5276,
+        "captain": false,
+        "leagueyearteamplayer_id": 3493,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "18"
+      },
+      {
+        "Player": {
+          "player_id": 5254,
+          "PlayerName": "保沙域",
+          "player_position": ""
+        },
+        "player_id": 5254,
+        "captain": false,
+        "leagueyearteamplayer_id": 3483,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "7"
+      },
+      {
+        "Player": {
+          "player_id": 5257,
+          "PlayerName": "巴度奴域",
+          "player_position": ""
+        },
+        "player_id": 5257,
+        "captain": false,
+        "leagueyearteamplayer_id": 3479,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "3"
+      },
+      {
+        "Player": {
+          "player_id": 5243,
+          "PlayerName": "獲文",
+          "player_position": ""
+        },
+        "player_id": 5243,
+        "captain": false,
+        "leagueyearteamplayer_id": 3478,
+        "leagueyearteam_id": 140,
+        "clubplayer_id": null,
+        "player_jersey": "2"
+      }
+    ],
+    "MatchEvents": [
+      {
+        "teamplayer_home_id": 3442,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 5204,
+          "club_id": 0,
+          "PlayerName": "金東珍",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Home",
+        "min": 36,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 3449,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 5211,
+          "club_id": 0,
+          "PlayerName": "李天秀",
+          "player_position": "Forward"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "G",
+        "side": "Home",
+        "min": 49,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 3491,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 5246,
+          "club_id": 0,
+          "PlayerName": "尼高",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Guest",
+        "min": 27,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 3445,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 5203,
+          "club_id": 0,
+          "PlayerName": "白知勳",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "YC",
+        "side": "Home",
+        "min": 89,
+        "minExtra": 0,
+        "EXCPlayer": null
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 3487,
+        "teamplayer_guest_sub_id": 3484,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 5253,
+          "club_id": 0,
+          "PlayerName": "柏域",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 5245,
+          "club_id": 0,
+          "PlayerName": "巴拉丁力",
+          "player_position": ""
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 46,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "柏域",
+              "player_position": ""
+            },
+            "player_id": 5253,
+            "leagueyearteamplayer_id": 3487,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "11"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "巴拉丁力",
+              "player_position": ""
+            },
+            "player_id": 5245,
+            "leagueyearteamplayer_id": 3484,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "8"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 3478,
+        "teamplayer_guest_sub_id": 3480,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 5243,
+          "club_id": 0,
+          "PlayerName": "獲文",
+          "player_position": ""
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 5255,
+          "club_id": 0,
+          "PlayerName": "耶斯",
+          "player_position": ""
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 81,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "獲文",
+              "player_position": ""
+            },
+            "player_id": 5243,
+            "leagueyearteamplayer_id": 3478,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "2"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "耶斯",
+              "player_position": ""
+            },
+            "player_id": 5255,
+            "leagueyearteamplayer_id": 3480,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "4"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 0,
+        "teamplayer_home_sub_id": 0,
+        "teamplayer_guest_id": 3493,
+        "teamplayer_guest_sub_id": 3486,
+        "teamplayer_home": null,
+        "teamplayer_home_sub": null,
+        "teamplayer_guest": {
+          "player_id": 5276,
+          "club_id": 0,
+          "PlayerName": "沙菲域",
+          "player_position": null
+        },
+        "teamplayer_guest_sub": {
+          "player_id": 5247,
+          "club_id": 0,
+          "PlayerName": "富根力",
+          "player_position": ""
+        },
+        "EventType": "EXC",
+        "side": "Guest",
+        "min": 81,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Guest",
+          "from": {
+            "Player": {
+              "PlayerName": "沙菲域",
+              "player_position": null
+            },
+            "player_id": 5276,
+            "leagueyearteamplayer_id": 3493,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "18"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "富根力",
+              "player_position": ""
+            },
+            "player_id": 5247,
+            "leagueyearteamplayer_id": 3486,
+            "leagueyearteam_id": 140,
+            "clubplayer_id": null,
+            "player_jersey": "10"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 3450,
+        "teamplayer_home_sub_id": 3449,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 5210,
+          "club_id": 0,
+          "PlayerName": "朴主永",
+          "player_position": "Forward"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 5211,
+          "club_id": 0,
+          "PlayerName": "李天秀",
+          "player_position": "Forward"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 84,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "朴主永",
+              "player_position": "Forward"
+            },
+            "player_id": 5210,
+            "leagueyearteamplayer_id": 3450,
+            "leagueyearteam_id": 141,
+            "clubplayer_id": null,
+            "player_jersey": "10"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "李天秀",
+              "player_position": "Forward"
+            },
+            "player_id": 5211,
+            "leagueyearteamplayer_id": 3449,
+            "leagueyearteam_id": 141,
+            "clubplayer_id": null,
+            "player_jersey": "14"
+          }
+        }
+      },
+      {
+        "teamplayer_home_id": 3443,
+        "teamplayer_home_sub_id": 3441,
+        "teamplayer_guest_id": 0,
+        "teamplayer_guest_sub_id": 0,
+        "teamplayer_home": {
+          "player_id": 5206,
+          "club_id": 0,
+          "PlayerName": "金斗鉉",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_home_sub": {
+          "player_id": 5205,
+          "club_id": 0,
+          "PlayerName": "金政佑",
+          "player_position": "Midfielder"
+        },
+        "teamplayer_guest": null,
+        "teamplayer_guest_sub": null,
+        "EventType": "EXC",
+        "side": "Home",
+        "min": 90,
+        "minExtra": 0,
+        "EXCPlayer": {
+          "side": "Home",
+          "from": {
+            "Player": {
+              "PlayerName": "金斗鉉",
+              "player_position": "Midfielder"
+            },
+            "player_id": 5206,
+            "leagueyearteamplayer_id": 3443,
+            "leagueyearteam_id": 141,
+            "clubplayer_id": null,
+            "player_jersey": "8"
+          },
+          "to": {
+            "Player": {
+              "PlayerName": "金政佑",
+              "player_position": "Midfielder"
+            },
+            "player_id": 5205,
+            "leagueyearteamplayer_id": 3441,
+            "leagueyearteam_id": 141,
+            "clubplayer_id": null,
+            "player_jersey": "15"
+          }
+        }
+      }
+    ],
+    "report": {
+      "news_id": 3594,
+      "news_date": "2006-01-29",
+      "news_title": "韓國2:0克羅地亞，香港0:3丹麥",
+      "news_abstract": "1月29日在香港大球場舉行的2006嘉士伯盃賀歲足球賽，頭場韓國以2:0擊敗克羅地亞，尾場香港以0:3不敵丹麥。",
+      "news_content": "<p>1月29日在香港大球場舉行的2006嘉士伯盃賀歲足球賽，頭場韓國以2:0擊敗克羅地亞，尾場香港以0:3不敵丹麥。</p>\r\n<p>頭場由兩支2006年世界盃決賽周隊伍對碰，上半場13分鐘，韓國在進攻線右路得到一個自由球，李天秀大腳傳中，後上助攻的崔鎮哲門前一記剷射僅僅斜出。29分鐘，李東國在禁區轉身抽射被克羅地亞門將迪度里卡撲出，李天秀衝前補射又再被迪度里卡翻身救出。36分鐘，韓國的金東珍在中場帶球推進，然後在大約離門四十碼位置施一記冷箭彈地入網，韓國領先1:0。結果韓國亦憑此入球領先上半場。</p>\r\n<p>下半場開賽僅4分鐘，李東國巧妙地把李雲在開出的球門球控下並將皮球傳交給李天秀，後者不負所托順勢一抽遠柱入網，韓國領先至2:0。13分鐘，克羅地亞的尼高接應卡蘭積卡橫傳撞射柱邊出界。及後克羅地亞雖然傾力反撲，但始終無法突破韓國隊防線，而韓國隊亦有白知勳先後兩次射門偏離目標，未能再將比數改寫，最後韓國以2:0擊敗克羅地亞，晉身初四的決賽。</p>\r\n<p>尾場由東道主香港隊迎戰丹麥，上半場19分鐘，客隊的施巴鮑華中路連過兩關後在禁區頂起腳施射僅僅高出。兩分鐘後，丹麥於右路傳中，遠柱接應的比治頂回中路給門前的貝治一頂破網，1:0。38分鐘，卓卓接應朱兆基橫傳起左腳施射被丹麥門將安卡格寧飛身救出。1分鐘後，丹麥的奧吉斯甸臣離門廿碼一記撞射破網，為客隊領先至2:0完上半場。</p>\r\n<p>下半場6分鐘，丹麥在禁區頂得到一個自由球，杜爾起左腳彎過人牆入網，丹麥領先至3:0。9分鐘，陳偉豪主射罰球高出，1分鐘後，文彼得離門卅碼施一記冷箭僅僅斜出。戰至24分鐘，丹麥門將出迎接球時越過禁區界，因此香港隊左禁區邊緣得到一個自由球，潘耀焯主射僅僅偏離目標。30分鐘，杜爾單對單面對范俊業施射斜出。補時階段，後備入替的陳肇麒一記妙射貼柱出界未能為港隊追成較接近記錄，最後丹麥保持3:0戰果至完場，將會在初四與韓國隊爭奪2006嘉士伯盃冠軍。</p>",
+      "news_image_1": null,
+      "news_image_2": null,
+      "news_image_3": null,
+      "news_image_4": null,
+      "news_image_5": null,
+      "news_image_6": null,
+      "news_league": false,
+      "news_hkteam_type": false
+    }
+  },
+  "HomePlayersTable": [
+    {
+      "Player": {
+        "player_id": 5191,
+        "PlayerName": "李雲在",
+        "player_position": "Goalkeeper"
+      },
+      "player_id": 5191,
+      "captain": true,
+      "leagueyearteamplayer_id": 3434,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 5211,
+        "PlayerName": "李天秀",
+        "player_position": "Forward"
+      },
+      "player_id": 5211,
+      "captain": false,
+      "leagueyearteamplayer_id": 3449,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "14"
+    },
+    {
+      "Player": {
+        "player_id": 5212,
+        "PlayerName": "鄭敬浩",
+        "player_position": "Forward"
+      },
+      "player_id": 5212,
+      "captain": false,
+      "leagueyearteamplayer_id": 3451,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "16"
+    },
+    {
+      "Player": {
+        "player_id": 5213,
+        "PlayerName": "李東國",
+        "player_position": "Forward"
+      },
+      "player_id": 5213,
+      "captain": false,
+      "leagueyearteamplayer_id": 3452,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "20"
+    },
+    {
+      "Player": {
+        "player_id": 5200,
+        "PlayerName": "金相植",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5200,
+      "captain": false,
+      "leagueyearteamplayer_id": 3447,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "13"
+    },
+    {
+      "Player": {
+        "player_id": 5202,
+        "PlayerName": "趙元希",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5202,
+      "captain": false,
+      "leagueyearteamplayer_id": 3446,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "23"
+    },
+    {
+      "Player": {
+        "player_id": 5203,
+        "PlayerName": "白知勳",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5203,
+      "captain": false,
+      "leagueyearteamplayer_id": 3445,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "21"
+    },
+    {
+      "Player": {
+        "player_id": 5194,
+        "PlayerName": "崔鎮哲",
+        "player_position": "Defender"
+      },
+      "player_id": 5194,
+      "captain": false,
+      "leagueyearteamplayer_id": 3437,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "4"
+    },
+    {
+      "Player": {
+        "player_id": 5205,
+        "PlayerName": "金政佑",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5205,
+      "captain": false,
+      "leagueyearteamplayer_id": 3441,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "15"
+    },
+    {
+      "Player": {
+        "player_id": 5204,
+        "PlayerName": "金東珍",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5204,
+      "captain": false,
+      "leagueyearteamplayer_id": 3442,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "3"
+    },
+    {
+      "Player": {
+        "player_id": 5201,
+        "PlayerName": "李浩",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5201,
+      "captain": false,
+      "leagueyearteamplayer_id": 3444,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "17"
+    }
+  ],
+  "GuestPlayersTable": [
+    {
+      "Player": {
+        "player_id": 5235,
+        "PlayerName": "迪度里卡",
+        "player_position": ""
+      },
+      "player_id": 5235,
+      "captain": false,
+      "leagueyearteamplayer_id": 3476,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "1"
+    },
+    {
+      "Player": {
+        "player_id": 5242,
+        "PlayerName": "保斯積",
+        "player_position": ""
+      },
+      "player_id": 5242,
+      "captain": false,
+      "leagueyearteamplayer_id": 3489,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "14"
+    },
+    {
+      "Player": {
+        "player_id": 5238,
+        "PlayerName": "賓高",
+        "player_position": ""
+      },
+      "player_id": 5238,
+      "captain": false,
+      "leagueyearteamplayer_id": 3490,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "15"
+    },
+    {
+      "Player": {
+        "player_id": 5246,
+        "PlayerName": "尼高",
+        "player_position": ""
+      },
+      "player_id": 5246,
+      "captain": false,
+      "leagueyearteamplayer_id": 3491,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "16"
+    },
+    {
+      "Player": {
+        "player_id": 5247,
+        "PlayerName": "富根力",
+        "player_position": ""
+      },
+      "player_id": 5247,
+      "captain": false,
+      "leagueyearteamplayer_id": 3486,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "10"
+    },
+    {
+      "Player": {
+        "player_id": 5252,
+        "PlayerName": "迪施華",
+        "player_position": ""
+      },
+      "player_id": 5252,
+      "captain": false,
+      "leagueyearteamplayer_id": 3485,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 5245,
+        "PlayerName": "巴拉丁力",
+        "player_position": ""
+      },
+      "player_id": 5245,
+      "captain": false,
+      "leagueyearteamplayer_id": 3484,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    },
+    {
+      "Player": {
+        "player_id": 5275,
+        "PlayerName": "尼里積",
+        "player_position": null
+      },
+      "player_id": 5275,
+      "captain": false,
+      "leagueyearteamplayer_id": 3482,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "6"
+    },
+    {
+      "Player": {
+        "player_id": 5240,
+        "PlayerName": "杜基",
+        "player_position": ""
+      },
+      "player_id": 5240,
+      "captain": true,
+      "leagueyearteamplayer_id": 3481,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    },
+    {
+      "Player": {
+        "player_id": 5255,
+        "PlayerName": "耶斯",
+        "player_position": ""
+      },
+      "player_id": 5255,
+      "captain": false,
+      "leagueyearteamplayer_id": 3480,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "4"
+    },
+    {
+      "Player": {
+        "player_id": 5248,
+        "PlayerName": "卡蘭積卡",
+        "player_position": ""
+      },
+      "player_id": 5248,
+      "captain": false,
+      "leagueyearteamplayer_id": 3494,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "19"
+    }
+  ],
+  "HomeSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 5192,
+        "PlayerName": "金永光",
+        "player_position": "Goalkeeper"
+      },
+      "player_id": 5192,
+      "captain": false,
+      "leagueyearteamplayer_id": 3435,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "31"
+    },
+    {
+      "Player": {
+        "player_id": 5210,
+        "PlayerName": "朴主永",
+        "player_position": "Forward"
+      },
+      "player_id": 5210,
+      "captain": false,
+      "leagueyearteamplayer_id": 3450,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "10"
+    },
+    {
+      "Player": {
+        "player_id": 5208,
+        "PlayerName": "曹載真",
+        "player_position": "Forward"
+      },
+      "player_id": 5208,
+      "captain": false,
+      "leagueyearteamplayer_id": 3453,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "9"
+    },
+    {
+      "Player": {
+        "player_id": 5199,
+        "PlayerName": "張學永",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5199,
+      "captain": false,
+      "leagueyearteamplayer_id": 3454,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 5196,
+        "PlayerName": "柳京烈",
+        "player_position": "Defender"
+      },
+      "player_id": 5196,
+      "captain": false,
+      "leagueyearteamplayer_id": 3439,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "2"
+    },
+    {
+      "Player": {
+        "player_id": 5195,
+        "PlayerName": "金榮哲",
+        "player_position": "Defender"
+      },
+      "player_id": 5195,
+      "captain": false,
+      "leagueyearteamplayer_id": 3440,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "5"
+    },
+    {
+      "Player": {
+        "player_id": 5206,
+        "PlayerName": "金斗鉉",
+        "player_position": "Midfielder"
+      },
+      "player_id": 5206,
+      "captain": false,
+      "leagueyearteamplayer_id": 3443,
+      "leagueyearteam_id": 141,
+      "clubplayer_id": null,
+      "player_jersey": "8"
+    }
+  ],
+  "GuestSubPlayersTable": [
+    {
+      "Player": {
+        "player_id": 5253,
+        "PlayerName": "柏域",
+        "player_position": ""
+      },
+      "player_id": 5253,
+      "captain": false,
+      "leagueyearteamplayer_id": 3487,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "11"
+    },
+    {
+      "Player": {
+        "player_id": 5256,
+        "PlayerName": "根沙域",
+        "player_position": ""
+      },
+      "player_id": 5256,
+      "captain": false,
+      "leagueyearteamplayer_id": 3488,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "13"
+    },
+    {
+      "Player": {
+        "player_id": 5241,
+        "PlayerName": "連力",
+        "player_position": ""
+      },
+      "player_id": 5241,
+      "captain": false,
+      "leagueyearteamplayer_id": 3492,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "17"
+    },
+    {
+      "Player": {
+        "player_id": 5276,
+        "PlayerName": "沙菲域",
+        "player_position": null
+      },
+      "player_id": 5276,
+      "captain": false,
+      "leagueyearteamplayer_id": 3493,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "18"
+    },
+    {
+      "Player": {
+        "player_id": 5254,
+        "PlayerName": "保沙域",
+        "player_position": ""
+      },
+      "player_id": 5254,
+      "captain": false,
+      "leagueyearteamplayer_id": 3483,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "7"
+    },
+    {
+      "Player": {
+        "player_id": 5257,
+        "PlayerName": "巴度奴域",
+        "player_position": ""
+      },
+      "player_id": 5257,
+      "captain": false,
+      "leagueyearteamplayer_id": 3479,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "3"
+    },
+    {
+      "Player": {
+        "player_id": 5243,
+        "PlayerName": "獲文",
+        "player_position": ""
+      },
+      "player_id": 5243,
+      "captain": false,
+      "leagueyearteamplayer_id": 3478,
+      "leagueyearteam_id": 140,
+      "clubplayer_id": null,
+      "player_jersey": "2"
+    }
+  ],
+  "HomeStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 1,
+    "rc": 0
+  },
+  "GuestStatisticTable": {
+    "shoot": null,
+    "shoot_on_target": null,
+    "corner": null,
+    "offside": null,
+    "fouls": null,
+    "saves": null,
+    "yc": 1,
+    "rc": 0
+  },
+  "HomeGoalPlayerTable": [
+    {
+      "teamplayer_home_id": 3442,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 5204,
+        "club_id": 0,
+        "PlayerName": "金東珍",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Home",
+      "min": 36,
+      "minExtra": 0,
+      "EXCPlayer": null
+    },
+    {
+      "teamplayer_home_id": 3449,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 5211,
+        "club_id": 0,
+        "PlayerName": "李天秀",
+        "player_position": "Forward"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "G",
+      "side": "Home",
+      "min": 49,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestGoalPlayerTable": [],
+  "Home12YPlayerTable": [],
+  "Guest12YPlayerTable": [],
+  "HomeYCTable": [
+    {
+      "teamplayer_home_id": 3445,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 5203,
+        "club_id": 0,
+        "PlayerName": "白知勳",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Home",
+      "min": 89,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "GuestYCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 3491,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 5246,
+        "club_id": 0,
+        "PlayerName": "尼高",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": null,
+      "EventType": "YC",
+      "side": "Guest",
+      "min": 27,
+      "minExtra": 0,
+      "EXCPlayer": null
+    }
+  ],
+  "HomeRCTable": [],
+  "GuestRCTable": [],
+  "HomeEXCTable": [
+    {
+      "teamplayer_home_id": 3450,
+      "teamplayer_home_sub_id": 3449,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 5210,
+        "club_id": 0,
+        "PlayerName": "朴主永",
+        "player_position": "Forward"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 5211,
+        "club_id": 0,
+        "PlayerName": "李天秀",
+        "player_position": "Forward"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 84,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "朴主永",
+            "player_position": "Forward"
+          },
+          "player_id": 5210,
+          "leagueyearteamplayer_id": 3450,
+          "leagueyearteam_id": 141,
+          "clubplayer_id": null,
+          "player_jersey": "10"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "李天秀",
+            "player_position": "Forward"
+          },
+          "player_id": 5211,
+          "leagueyearteamplayer_id": 3449,
+          "leagueyearteam_id": 141,
+          "clubplayer_id": null,
+          "player_jersey": "14"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 3443,
+      "teamplayer_home_sub_id": 3441,
+      "teamplayer_guest_id": 0,
+      "teamplayer_guest_sub_id": 0,
+      "teamplayer_home": {
+        "player_id": 5206,
+        "club_id": 0,
+        "PlayerName": "金斗鉉",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_home_sub": {
+        "player_id": 5205,
+        "club_id": 0,
+        "PlayerName": "金政佑",
+        "player_position": "Midfielder"
+      },
+      "teamplayer_guest": null,
+      "teamplayer_guest_sub": null,
+      "EventType": "EXC",
+      "side": "Home",
+      "min": 90,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Home",
+        "from": {
+          "Player": {
+            "PlayerName": "金斗鉉",
+            "player_position": "Midfielder"
+          },
+          "player_id": 5206,
+          "leagueyearteamplayer_id": 3443,
+          "leagueyearteam_id": 141,
+          "clubplayer_id": null,
+          "player_jersey": "8"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "金政佑",
+            "player_position": "Midfielder"
+          },
+          "player_id": 5205,
+          "leagueyearteamplayer_id": 3441,
+          "leagueyearteam_id": 141,
+          "clubplayer_id": null,
+          "player_jersey": "15"
+        }
+      }
+    }
+  ],
+  "GuestEXCTable": [
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 3487,
+      "teamplayer_guest_sub_id": 3484,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 5253,
+        "club_id": 0,
+        "PlayerName": "柏域",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 5245,
+        "club_id": 0,
+        "PlayerName": "巴拉丁力",
+        "player_position": ""
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 46,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "柏域",
+            "player_position": ""
+          },
+          "player_id": 5253,
+          "leagueyearteamplayer_id": 3487,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "11"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "巴拉丁力",
+            "player_position": ""
+          },
+          "player_id": 5245,
+          "leagueyearteamplayer_id": 3484,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "8"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 3478,
+      "teamplayer_guest_sub_id": 3480,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 5243,
+        "club_id": 0,
+        "PlayerName": "獲文",
+        "player_position": ""
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 5255,
+        "club_id": 0,
+        "PlayerName": "耶斯",
+        "player_position": ""
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 81,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "獲文",
+            "player_position": ""
+          },
+          "player_id": 5243,
+          "leagueyearteamplayer_id": 3478,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "2"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "耶斯",
+            "player_position": ""
+          },
+          "player_id": 5255,
+          "leagueyearteamplayer_id": 3480,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "4"
+        }
+      }
+    },
+    {
+      "teamplayer_home_id": 0,
+      "teamplayer_home_sub_id": 0,
+      "teamplayer_guest_id": 3493,
+      "teamplayer_guest_sub_id": 3486,
+      "teamplayer_home": null,
+      "teamplayer_home_sub": null,
+      "teamplayer_guest": {
+        "player_id": 5276,
+        "club_id": 0,
+        "PlayerName": "沙菲域",
+        "player_position": null
+      },
+      "teamplayer_guest_sub": {
+        "player_id": 5247,
+        "club_id": 0,
+        "PlayerName": "富根力",
+        "player_position": ""
+      },
+      "EventType": "EXC",
+      "side": "Guest",
+      "min": 81,
+      "minExtra": 0,
+      "EXCPlayer": {
+        "side": "Guest",
+        "from": {
+          "Player": {
+            "PlayerName": "沙菲域",
+            "player_position": null
+          },
+          "player_id": 5276,
+          "leagueyearteamplayer_id": 3493,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "18"
+        },
+        "to": {
+          "Player": {
+            "PlayerName": "富根力",
+            "player_position": ""
+          },
+          "player_id": 5247,
+          "leagueyearteamplayer_id": 3486,
+          "leagueyearteam_id": 140,
+          "clubplayer_id": null,
+          "player_jersey": "10"
+        }
+      }
+    }
+  ]
+}
